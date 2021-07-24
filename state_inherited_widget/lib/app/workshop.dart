@@ -14,15 +14,15 @@ void main() {
   );
 }
 
-class AppState {
-  // TODO: fill in this data structure.
+// class AppState {
+//   // TODO: fill in this data structure.
 
-  AppState copyWith({
-    //..
-  }) {
-    // TODO: implement copy method.
-  }
-}
+//   AppState copyWith({
+//     //..
+//   }) {
+//     // TODO: implement copy method.
+//   }
+// }
 
 class MyStorePage extends StatefulWidget {
   MyStorePage({Key? key}) : super(key: key);
